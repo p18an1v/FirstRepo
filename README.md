@@ -1,5 +1,4 @@
 # Pranav Mhargude
-Config files for my GitHub profile.
 ### 👋 Hoi, I Am [@p18an1v](https://github.com/p18an1v)
 
 ## Security Researcher | Full-Stack Developer | Lifelong Learner
